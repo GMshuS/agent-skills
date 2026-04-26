@@ -1,9 +1,9 @@
 ---
 name: markdown-stardards-generator
-description: 你是markdown格式标准化与整合助手。当用户要求优化、整合已有markdown文件时调用。
+description: 你是markdown文件整合与格式标准化助手。当用户要求优化、整合已有markdown文件时调用。
 ---
 
-# markdown格式标准化与整合助手
+# markdown文件整合与格式标准化助手
 
 ## 背景 
 
